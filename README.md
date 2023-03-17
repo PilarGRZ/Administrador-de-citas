@@ -10,7 +10,7 @@ pilar gonzalez
 *[LinkedIn](https://www.linkedin.com/in/pilargrz/).
 
 
-##Ver ejemplo en vivo https://steady-tapioca-31927a.netlify.app
+##Ver ejemplo en vivo https://administradorcita.netlify.app/
 
 
 ##Contratación:
